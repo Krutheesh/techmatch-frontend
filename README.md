@@ -1,10 +1,10 @@
-# 🌐 DevTinder – Developer Networking Application
+# 🌐 TechMatch – IT Professional Networking Application
 
-**DevTinder** is a full-stack web application that helps developers connect, collaborate, and network based on shared skills and interests.  
-It provides real-time **chat, connection requests, and authentication**, making developer networking interactive and seamless.  
+**TechMatch** is a full-stack web application that helps IT professionals connect, collaborate, and network based on shared skills and interests.  
+It provides real-time **chat, connection requests, and authentication**, making professional networking interactive and seamless.  
 
-🚀 **Backend Live API:** [DevTinder Backend (Vercel)](https://dev-tinder-backend.vercel.app/)  
-📂 **Backend Repository:** [GitHub Repo](https://github.com/Krutheesh/DEV_TINDER_BACKEND/)  
+🚀 **Backend Live API:** [TechMatch Backend (Vercel)](https://techmatch-backend.vercel.app/)  
+📂 **Backend Repository:** [GitHub Repo](https://github.com/Krutheesh/techmatch-backend)  
 
 ---
 
@@ -16,7 +16,7 @@ It provides real-time **chat, connection requests, and authentication**, making 
 - 🎨 **Responsive UI** – Built with **Tailwind CSS** and **DaisyUI**  
 - ⚡ **State Management** – Handled with **Redux Toolkit**  
 - 📂 **Profile Management** – Edit profile, view connections, and manage requests  
-- 📈 **Feed & Cards** – View developer feeds and user cards dynamically  
+- 📈 **Feed & Cards** – View professional feeds and user cards dynamically  
 - 🚫 **Route Protection** – Redirect to login if not authenticated  
 - 🧪 **End-to-End Testing** – Basic e2e test coverage for critical flows  
 
@@ -24,7 +24,7 @@ It provides real-time **chat, connection requests, and authentication**, making 
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 - React.js + Vite  
 - Redux Toolkit  
 - Tailwind CSS + DaisyUI  
@@ -32,7 +32,7 @@ It provides real-time **chat, connection requests, and authentication**, making 
 - Axios  
 - Socket.io-client  
 
-**Backend**
+### Backend
 - Node.js  
 - Express.js  
 - MongoDB  
@@ -47,10 +47,10 @@ Follow these steps to set up and run the frontend locally:
 
 ## 1️⃣ Clone the frontend repository
 
-git clone https://github.com/Krutheesh/DEV_TINDER_FRONTEND.git
+git clone https://github.com/Krutheesh/techmatch-frontend.git
 
 ## 2️⃣ Go into the project directory
-cd DEV_TINDER_FRONTEND
+cd techmatch-frontend
 
 ## 3️⃣ Install dependencies
 npm install
